@@ -1,0 +1,31 @@
+body table{
+    width: 800px;
+    height: 350px;
+    padding: 50px;
+    margin: 50px;
+    border-spacing: 8px;
+    font-size: 20px;
+   
+}
+body table td{
+    border-radius: 25px;
+    padding: 20px;
+    background-color: #e0e9f0;
+    border: 20px;
+    text-align: center;
+    
+}
+
+.Zero{
+    height: 30px;
+    border: 0.5 solid rgb(10, 9, 9);
+    text-align: end;
+     
+}
+.Number{
+    background-color: rgb(246, 249, 250);
+    width: fit-content;
+}
+.Equals{
+    background-color:  #2092e9 ;
+}
